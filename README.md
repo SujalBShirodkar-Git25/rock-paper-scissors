@@ -1,1 +1,2 @@
-# rock-paper-scissors
+## https://sujalbshirodkar-git25.github.io/rock-paper-scissors/
+Built a fully interactive Rock, Paper, Scissors game using HTML, CSS, and JavaScript. Implemented dynamic gameplay with real-time score tracking using localStorage, an auto-play mode, and keyboard controls. Designed a clean and responsive UI using custom styling and emoji-based visual feedback. The project demonstrates DOM manipulation, event handling, and basic game logic in JavaScript.
